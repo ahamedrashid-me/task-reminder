@@ -1,0 +1,9 @@
+Package: task-reminder
+Version: 1.0
+Section: utils
+Priority: optional
+Architecture: all
+Depends: python3, python3-gi, sox
+Maintainer: MD. Rashid Ahamed <ahamedrashid.me@gmail.com>
+Description: A minimal GTK alarm clock app with memo support
+
