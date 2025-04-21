@@ -9,16 +9,25 @@
 **Simple Alarm** is a minimal GTK-based desktop alarm application for Linux. Set alarms with custom time and memo notes, and get notified with a sound and GUI popup when it's time!
 
 ![screenshot](assets/alarm.png)
+[alarm](https://github.com/user-attachments/assets/4206b117-8bac-448a-ad10-6e80eecdffd9)
 
+[task-reminder](https://github.com/user-attachments/assets/50265f30-3dba-49b2-959d-963e6542ffa1)
+
+[Alart](https://github.com/user-attachments/assets/5a01a796-5a62-4c2e-a76c-fcc6505928d9)
+
+
+!
 
 ---
 
-## ✨ Features
+## ✨ Features!
+
 
 - Simple, clean GTK interface
 - Hour and minute picker
 - Custom memo/note for each alarm
-- Alarm sound (melodic tone via SoX)
+- Alarm sound (melodic tone via SoX)!
+
 - Alarm popup with options: Stop, Set New, Exit
 - Repeats alarm if not dismissed
 - Built-in CSS styling
@@ -31,8 +40,8 @@
 ### From Source
 
 ```bash
-git clone https://github.com/ahamedrashid-me/simple-alarm.git
-cd simple-alarm
+git clone https://github.com/ahamedrashid-me/task-reminder.git
+cd task-reminder
 python3 alarm.py
 ```
 
